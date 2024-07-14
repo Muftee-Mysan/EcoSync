@@ -1,2 +1,2 @@
-# EcoSyn
+# EcoSync
 Starting of something incredible!
