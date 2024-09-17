@@ -1,5 +1,4 @@
 # EcoSync
-Starting of something incredible!
 
 In today's industrial world, one of the major concerns is the energy deficit, leading to rising
 energy costs and significant wastage. The hotel industry exemplifies this challenge, as it
