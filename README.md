@@ -16,3 +16,14 @@ developing an innovative solution that optimizes energy consumption while mainta
 comfortable environment for hotel guests.
 
 ![ecosyn final ](https://github.com/user-attachments/assets/31bd4a3a-7588-401b-8b5b-15c831b7e90c)
+
+ECOSYNC has two separate units.  
+• Keycard Presence Detector (KPD): A keycard holder with a presence detector. 
+• AC Controller (ACC) 
+KPD’s IR proximity sensor detects whether the keycard is inserted or removed if it is removed, 
+It sends the message to the ACC using a Bluetooth signal. ACC then transmits relevant IR signals 
+to the AC according to the selected mode to change the working temperature of the AC. 
+ACC has two modes,  
+• Eco Mode: Rises the temperature to 25 degrees Celsius; showed by green LED 
+• Luxury Mode: Rises the temperature to 23 degrees Celsius; showed with blue LED 
+The mode selection is designed to be manual and can be controlled by the hotel management. 
