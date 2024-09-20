@@ -14,3 +14,5 @@ Therefore, the hotel industry faces a critical dilemma: how to achieve energy ef
 without compromising guest comfort. Our startup aims to address this pressing issue by
 developing an innovative solution that optimizes energy consumption while maintaining a
 comfortable environment for hotel guests.
+
+![ecosyn final ](https://github.com/user-attachments/assets/31bd4a3a-7588-401b-8b5b-15c831b7e90c)
