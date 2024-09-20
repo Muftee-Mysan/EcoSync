@@ -12,3 +12,4 @@ We have used **Altium Designer** to create the printed circuit board (PCB) desig
 
 These designs are crucial for controlling the air conditioning system and detecting key card presence, contributing to energy efficiency and automated room control in our project.
 
+![pcb](https://github.com/user-attachments/assets/bda06961-5bd4-43dd-a956-28e0521c9aba)
